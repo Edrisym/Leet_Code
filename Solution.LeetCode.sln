@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "203_Remove_Linked_List_Elem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3136_Valid_Word", "3136_Valid_Word\3136_Valid_Word.csproj", "{FA1C5F7C-792F-47F0-A6F7-AF626DB6AC73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1392_Is_Subsequence", "1392_Is_Subsequence\1392_Is_Subsequence.csproj", "{44ECA9B7-40D1-484C-8FA2-F92BFE65886F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{FA1C5F7C-792F-47F0-A6F7-AF626DB6AC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA1C5F7C-792F-47F0-A6F7-AF626DB6AC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA1C5F7C-792F-47F0-A6F7-AF626DB6AC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44ECA9B7-40D1-484C-8FA2-F92BFE65886F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44ECA9B7-40D1-484C-8FA2-F92BFE65886F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44ECA9B7-40D1-484C-8FA2-F92BFE65886F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44ECA9B7-40D1-484C-8FA2-F92BFE65886F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
