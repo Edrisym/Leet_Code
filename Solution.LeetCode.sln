@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206_Reverse_Linked_List", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0136_Single_Number", "0136_Single_Number\0136_Single_Number.csproj", "{81CC7195-DD64-4B90-A461-8E94B1DA1215}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0100_Same_Tree", "0100_Same_Tree\0100_Same_Tree.csproj", "{889B1F63-D734-4B74-80BB-C5985859290F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{81CC7195-DD64-4B90-A461-8E94B1DA1215}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81CC7195-DD64-4B90-A461-8E94B1DA1215}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81CC7195-DD64-4B90-A461-8E94B1DA1215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889B1F63-D734-4B74-80BB-C5985859290F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889B1F63-D734-4B74-80BB-C5985859290F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889B1F63-D734-4B74-80BB-C5985859290F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889B1F63-D734-4B74-80BB-C5985859290F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
