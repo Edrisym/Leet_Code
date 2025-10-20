@@ -1,4 +1,8 @@
-﻿public class Solution
+﻿using LeetCode_Models;
+
+namespace _203_Remove_Linked_List_Elements;
+
+public class Solution
 {
     public ListNode RemoveElements(ListNode head, int val)
     {

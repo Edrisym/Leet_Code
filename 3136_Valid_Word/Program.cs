@@ -1,4 +1,5 @@
-﻿public class Solution
+﻿namespace _3136_Valid_Word;
+public class Solution
 {
     public bool IsValid(string word)
     {

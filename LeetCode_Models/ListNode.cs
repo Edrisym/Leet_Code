@@ -1,4 +1,6 @@
-﻿public class ListNode
+﻿namespace LeetCode_Models;
+
+public class ListNode
 {
     public int value;
     public ListNode next;

@@ -1,4 +1,6 @@
-﻿var last = new ListNode(5);
+﻿using LeetCode_Models;
+
+var last = new ListNode(5);
 var forth = new ListNode(4, last);
 var third = new ListNode(3, forth);
 var second = new ListNode(2, third);

@@ -1,4 +1,8 @@
-﻿public class Solution
+﻿using LeetCode_Models;
+
+namespace _61_Rotate_List;
+
+public class Solution
 {
     public ListNode RotateRight(ListNode head, int k)
     {
