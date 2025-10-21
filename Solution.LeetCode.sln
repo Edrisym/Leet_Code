@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0100_Same_Tree", "0100_Same
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104_Maximum_Depth_of_Binary_Tree", "104_Maximum_Depth_of_Binary_Tree\104_Maximum_Depth_of_Binary_Tree.csproj", "{CEB82550-D98C-450C-9C89-661799A571D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "872_Leaf_Similar_Trees", "872_Leaf_Similar_Trees\872_Leaf_Similar_Trees.csproj", "{F7263B45-C52A-4A61-A87B-0EE54660528A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{CEB82550-D98C-450C-9C89-661799A571D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEB82550-D98C-450C-9C89-661799A571D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEB82550-D98C-450C-9C89-661799A571D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7263B45-C52A-4A61-A87B-0EE54660528A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7263B45-C52A-4A61-A87B-0EE54660528A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7263B45-C52A-4A61-A87B-0EE54660528A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7263B45-C52A-4A61-A87B-0EE54660528A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
