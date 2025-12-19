@@ -30,6 +30,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104_Maximum_Depth_of_Binary
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "872_Leaf_Similar_Trees", "872_Leaf_Similar_Trees\872_Leaf_Similar_Trees.csproj", "{F7263B45-C52A-4A61-A87B-0EE54660528A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort_number", "Sort_number\Sort_number.csproj", "{466C1A08-5F98-4F62-8205-6B85D18BE166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1448_Count_Good_Nodes_in_Binary_Tree", "1448_Count_Good_Nodes_in_Binary_Tree\1448_Count_Good_Nodes_in_Binary_Tree.csproj", "{9F7666C3-9A20-44F5-BEFE-962DAD397DC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +100,13 @@ Global
 		{F7263B45-C52A-4A61-A87B-0EE54660528A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7263B45-C52A-4A61-A87B-0EE54660528A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7263B45-C52A-4A61-A87B-0EE54660528A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466C1A08-5F98-4F62-8205-6B85D18BE166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466C1A08-5F98-4F62-8205-6B85D18BE166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466C1A08-5F98-4F62-8205-6B85D18BE166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466C1A08-5F98-4F62-8205-6B85D18BE166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7666C3-9A20-44F5-BEFE-962DAD397DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7666C3-9A20-44F5-BEFE-962DAD397DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7666C3-9A20-44F5-BEFE-962DAD397DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7666C3-9A20-44F5-BEFE-962DAD397DC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
